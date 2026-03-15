@@ -1,0 +1,18 @@
+1- Run your local server
+2- Copy files in a folder
+3- Run the SQL file in MySQL to make the database Ready
+4- Run the signin.php
+5- There are two users in the database at the moment as follows:
+
+email: jack@gmail.com
+pass: test
+role: admin
+
+email: reza@gmail.com
+pass: test1234
+role: customer
+
+Customers can signup but admin is built-in
+
+
+
